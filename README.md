@@ -13,9 +13,9 @@ README.md — GitHub Profile for Mayank Sharma (BtkSkull)
   <a href="https://www.linkedin.com/in/mayank-sharma-075131325/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://BtkSkull.github.io/">
+<!--   <a href="https://BtkSkull.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
