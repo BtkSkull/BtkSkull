@@ -44,7 +44,14 @@ README.md — GitHub Profile for Mayank Sharma (BtkSkull)
 
 ---
 ⚡ GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=BtkSkull&show_icons=true&theme=radical" /> <img height="170" src="https://streak-stats.demolab.com?user=BtkSkull&theme=radical" /> </div> <div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BtkSkull&layout=compact&langs_count=8&theme=radical" /> </div>  
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BtkSkull&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BtkSkull&layout=compact&langs_count=8&theme=radical" />
+</div>
+<div align="center">
+  <img height="160" src="https://github-readme-streak-stats-eight.vercel.app?user=BtkSkull&theme=radical" />
+</div>
+
 
 🌱 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=BtkSkull&theme=tokyo-night" alt="Contribution Graph" /> </p>
