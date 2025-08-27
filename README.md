@@ -61,6 +61,3 @@ README.md — GitHub Profile for Mayank Sharma (BtkSkull)
 
 💼 LinkedIn: [Mayank Sharma
 ](https://www.linkedin.com/in/mayank-sharma-075131325/)
-
-
-
